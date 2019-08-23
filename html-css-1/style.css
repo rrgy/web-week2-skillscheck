@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.topbar{
+    height: 60px;
+    width: 100%;
+    background: gray;
+    /* margin:0; */
+    /* padding: 2px 0px 0px 0px; */
+}
+.company{
+    color: white;
+    width: 150px;
+    /* display: flex;
+    justify-content: flex-start;
+    align-content: center; */
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}  
